@@ -1,0 +1,320 @@
+[
+    {
+        "id": "0",
+        "name": "UltraBoost Shoes",
+        "category": "Men's Running",
+        "imageurl": [
+            "",
+            ""
+        ],
+        "oldprice": "1899.00",
+        "sizes": [
+            {
+                "size": "6.0",
+                "isSelected": "false"
+            },
+            {
+                "size": "7.0",
+                "isSelected": "false"
+            },
+            {
+                "size": "8.0",
+                "isSelected": "false"
+            },
+            {
+                "size": "9.0",
+                "isSelected": "false"
+            },
+            {
+                "size": "9.5",
+                "isSelected": "false"
+            }
+        ],
+        "price": "79.00",
+        "description": "Adidas UltraBoost Running Shoes with cooling ventilation technology to keep your feet comfortable during intense workouts. Ideal for long-distance running and daily wear.",
+        "title": "Adidas Running Shoes with Cooling Ventilations"
+    },
+    {
+        "id": "1",
+        "name": "Air Max Sneakers",
+        "category": "Men's Casual",
+        "imageurl": [
+            "",
+            ""
+        ],
+        "oldprice": "1599.00",
+        "sizes": [
+            {
+                "size": "7.0",
+                "isSelected": "false"
+            },
+            {
+                "size": "8.0",
+                "isSelected": "false"
+            },
+            {
+                "size": "9.0",
+                "isSelected": "false"
+            },
+            {
+                "size": "10.0",
+                "isSelected": "false"
+            }
+        ],
+        "price": "99.00",
+        "description": "Nike Air Max Sneakers designed for style and comfort. Features a cushioned sole for all-day wear and a sleek design for casual outings.",
+        "title": "Nike Air Max Sneakers"
+    },
+    {
+        "id": "2",
+        "name": "Gel-Kayano 27",
+        "category": "Men's Running",
+        "imageurl": [
+            "",
+            ""
+        ],
+        "oldprice": "1799.00",
+        "sizes": [
+            {
+                "size": "6.5",
+                "isSelected": "false"
+            },
+            {
+                "size": "7.5",
+                "isSelected": "false"
+            },
+            {
+                "size": "8.5",
+                "isSelected": "false"
+            },
+            {
+                "size": "9.5",
+                "isSelected": "false"
+            }
+        ],
+        "price": "89.00",
+        "description": "ASICS Gel-Kayano 27 Running Shoes provide excellent stability and comfort. Features GEL cushioning for superior shock absorption.",
+        "title": "ASICS Gel-Kayano 27 Running Shoes"
+    },
+    {
+        "id": "3",
+        "name": "Chuck Taylor All Star",
+        "category": "Unisex Casual",
+        "imageurl": [
+            "",
+            ""
+        ],
+        "oldprice": "699.00",
+        "sizes": [
+            {
+                "size": "6.0",
+                "isSelected": "false"
+            },
+            {
+                "size": "7.0",
+                "isSelected": "false"
+            },
+            {
+                "size": "8.0",
+                "isSelected": "false"
+            },
+            {
+                "size": "9.0",
+                "isSelected": "false"
+            }
+        ],
+        "price": "59.00",
+        "description": "Classic Converse Chuck Taylor All Star sneakers with a timeless design. Perfect for everyday casual wear.",
+        "title": "Converse Chuck Taylor All Star"
+    },
+    {
+        "id": "4",
+        "name": "PureBoost DPR",
+        "category": "Men's Running",
+        "imageurl": [
+            "",
+            ""
+        ],
+        "oldprice": "1499.00",
+        "sizes": [
+            {
+                "size": "7.0",
+                "isSelected": "false"
+            },
+            {
+                "size": "8.0",
+                "isSelected": "false"
+            },
+            {
+                "size": "9.0",
+                "isSelected": "false"
+            },
+            {
+                "size": "10.0",
+                "isSelected": "false"
+            }
+        ],
+        "price": "89.00",
+        "description": "Adidas PureBoost DPR Running Shoes designed for a natural feel with energy-returning cushioning. Lightweight and responsive for city runs.",
+        "title": "Adidas PureBoost DPR Running Shoes"
+    },
+    {
+        "id": "5",
+        "name": "ZoomX Vaporfly",
+        "category": "Men's Running",
+        "imageurl": [
+            "",
+            ""
+        ],
+        "oldprice": "2499.00",
+        "sizes": [
+            {
+                "size": "6.5",
+                "isSelected": "false"
+            },
+            {
+                "size": "7.5",
+                "isSelected": "false"
+            },
+            {
+                "size": "8.5",
+                "isSelected": "false"
+            },
+            {
+                "size": "9.5",
+                "isSelected": "false"
+            }
+        ],
+        "price": "199.00",
+        "description": "Nike ZoomX Vaporfly Next% is engineered for speed. Built with ultra-lightweight materials and advanced cushioning for marathon-level performance.",
+        "title": "Nike ZoomX Vaporfly Next% Running Shoes"
+    },
+    {
+        "id": "6",
+        "name": "Gel-Nimbus 22",
+        "category": "Women's Running",
+        "imageurl": [
+            "",
+            ""
+        ],
+        "oldprice": "1799.00",
+        "sizes": [
+            {
+                "size": "5.0",
+                "isSelected": "false"
+            },
+            {
+                "size": "6.0",
+                "isSelected": "false"
+            },
+            {
+                "size": "7.0",
+                "isSelected": "false"
+            },
+            {
+                "size": "8.0",
+                "isSelected": "false"
+            }
+        ],
+        "price": "89.00",
+        "description": "ASICS Gel-Nimbus 22 Running Shoes offer plush comfort and durable support for long-distance runs. Features advanced GEL cushioning technology.",
+        "title": "ASICS Gel-Nimbus 22 Women's Running Shoes"
+    },
+    {
+        "id": "7",
+        "name": "React Infinity Run",
+        "category": "Women's Running",
+        "imageurl": [
+            "",
+            ""
+        ],
+        "oldprice": "1699.00",
+        "sizes": [
+            {
+                "size": "5.5",
+                "isSelected": "false"
+            },
+            {
+                "size": "6.5",
+                "isSelected": "false"
+            },
+            {
+                "size": "7.5",
+                "isSelected": "false"
+            },
+            {
+                "size": "8.5",
+                "isSelected": "false"
+            }
+        ],
+        "price": "99.00",
+        "description": "Nike React Infinity Run Flyknit is designed to reduce injury and keep you running. Features Flyknit technology for a snug fit and React foam for a smooth ride.",
+        "title": "Nike React Infinity Run Flyknit Women's Running Shoes"
+    },
+    {
+        "id": "8",
+        "name": "Stan Smith",
+        "category": "Unisex Casual",
+        "imageurl": [
+            "",
+            ""
+        ],
+        "oldprice": "1299.00",
+        "sizes": [
+            {
+                "size": "6.0",
+                "isSelected": "false"
+            },
+            {
+                "size": "7.0",
+                "isSelected": "false"
+            },
+            {
+                "size": "8.0",
+                "isSelected": "false"
+            },
+            {
+                "size": "9.0",
+                "isSelected": "false"
+            },
+            {
+                "size": "10.0",
+                "isSelected": "false"
+            }
+        ],
+        "price": "79.00",
+        "description": "Adidas Stan Smith sneakers are a classic, known for their clean design and versatility. Suitable for both casual and semi-formal wear.",
+        "title": "Adidas Stan Smith Sneakers"
+    },
+    {
+        "id": "9",
+        "name": "Pegasus Trail 2",
+        "category": "Men's Trail Running",
+        "imageurl": [
+            "",
+            ""
+        ],
+        "oldprice": "1599.00",
+        "sizes": [
+            {
+                "size": "6.5",
+                "isSelected": "false"
+            },
+            {
+                "size": "7.5",
+                "isSelected": "false"
+            },
+            {
+                "size": "8.5",
+                "isSelected": "false"
+            },
+            {
+                "size": "9.5",
+                "isSelected": "false"
+            }
+        ],
+        "price": "109.00",
+        "description": "Nike Pegasus Trail 2 is built for rugged terrain. Features a durable outsole with multidirectional traction, ensuring grip on any surface.",
+        "title": "Nike Pegasus Trail 2 Men's Trail Running Shoes"
+    }
+]
