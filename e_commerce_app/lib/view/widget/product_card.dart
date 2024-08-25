@@ -96,6 +96,7 @@ class _ProductCardState extends State<ProductCard> {
                           width: 5,
                         ),
                         ChoiceChip(
+                          shape: const CircleBorder(),
                           label: const Text(""),
                           selected: selected,
                           visualDensity: VisualDensity.compact,

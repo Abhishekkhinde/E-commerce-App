@@ -1,0 +1,320 @@
+[
+    {
+        "id": "0",
+        "name": "UltraBoost X",
+        "category": "Women's Running",
+        "imageurl": [
+            "",
+            ""
+        ],
+        "oldprice": "1899.00",
+        "sizes": [
+            {
+                "size": "5.0",
+                "isSelected": "false"
+            },
+            {
+                "size": "6.0",
+                "isSelected": "false"
+            },
+            {
+                "size": "7.0",
+                "isSelected": "false"
+            },
+            {
+                "size": "8.0",
+                "isSelected": "false"
+            },
+            {
+                "size": "9.0",
+                "isSelected": "false"
+            }
+        ],
+        "price": "79.00",
+        "description": "Adidas UltraBoost X Running Shoes with adaptive arch design for a women's-specific fit. Perfect for long-distance running and daily wear.",
+        "title": "Adidas UltraBoost X Women's Running Shoes"
+    },
+    {
+        "id": "1",
+        "name": "Air Max Thea",
+        "category": "Women's Casual",
+        "imageurl": [
+            "",
+            ""
+        ],
+        "oldprice": "1599.00",
+        "sizes": [
+            {
+                "size": "5.0",
+                "isSelected": "false"
+            },
+            {
+                "size": "6.0",
+                "isSelected": "false"
+            },
+            {
+                "size": "7.0",
+                "isSelected": "false"
+            },
+            {
+                "size": "8.0",
+                "isSelected": "false"
+            }
+        ],
+        "price": "99.00",
+        "description": "Nike Air Max Thea Sneakers, designed with lightweight cushioning and sleek style for everyday casual wear.",
+        "title": "Nike Air Max Thea Women's Sneakers"
+    },
+    {
+        "id": "2",
+        "name": "Gel-Kayano 27 Lite",
+        "category": "Women's Running",
+        "imageurl": [
+            "",
+            ""
+        ],
+        "oldprice": "1799.00",
+        "sizes": [
+            {
+                "size": "5.5",
+                "isSelected": "false"
+            },
+            {
+                "size": "6.5",
+                "isSelected": "false"
+            },
+            {
+                "size": "7.5",
+                "isSelected": "false"
+            },
+            {
+                "size": "8.5",
+                "isSelected": "false"
+            }
+        ],
+        "price": "89.00",
+        "description": "ASICS Gel-Kayano 27 Lite Running Shoes provide enhanced stability and lightweight comfort. Features GEL cushioning for superior shock absorption.",
+        "title": "ASICS Gel-Kayano 27 Lite Women's Running Shoes"
+    },
+    {
+        "id": "3",
+        "name": "Chuck Taylor All Star Lift",
+        "category": "Women's Casual",
+        "imageurl": [
+            "",
+            ""
+        ],
+        "oldprice": "699.00",
+        "sizes": [
+            {
+                "size": "5.0",
+                "isSelected": "false"
+            },
+            {
+                "size": "6.0",
+                "isSelected": "false"
+            },
+            {
+                "size": "7.0",
+                "isSelected": "false"
+            },
+            {
+                "size": "8.0",
+                "isSelected": "false"
+            }
+        ],
+        "price": "59.00",
+        "description": "Converse Chuck Taylor All Star Lift sneakers with a platform sole. Classic style with added height, perfect for everyday casual wear.",
+        "title": "Converse Chuck Taylor All Star Lift Women's Sneakers"
+    },
+    {
+        "id": "4",
+        "name": "PureBoost X",
+        "category": "Women's Running",
+        "imageurl": [
+            "",
+            ""
+        ],
+        "oldprice": "1499.00",
+        "sizes": [
+            {
+                "size": "5.0",
+                "isSelected": "false"
+            },
+            {
+                "size": "6.0",
+                "isSelected": "false"
+            },
+            {
+                "size": "7.0",
+                "isSelected": "false"
+            },
+            {
+                "size": "8.0",
+                "isSelected": "false"
+            }
+        ],
+        "price": "89.00",
+        "description": "Adidas PureBoost X Running Shoes with a dynamic arch design that adapts to your foot. Lightweight and responsive for urban runs.",
+        "title": "Adidas PureBoost X Women's Running Shoes"
+    },
+    {
+        "id": "5",
+        "name": "ZoomX Vaporfly Next% 2",
+        "category": "Women's Running",
+        "imageurl": [
+            "",
+            ""
+        ],
+        "oldprice": "2499.00",
+        "sizes": [
+            {
+                "size": "5.5",
+                "isSelected": "false"
+            },
+            {
+                "size": "6.5",
+                "isSelected": "false"
+            },
+            {
+                "size": "7.5",
+                "isSelected": "false"
+            },
+            {
+                "size": "8.5",
+                "isSelected": "false"
+            }
+        ],
+        "price": "199.00",
+        "description": "Nike ZoomX Vaporfly Next% 2 is engineered for speed with ultra-lightweight materials and advanced cushioning. Designed for marathon-level performance.",
+        "title": "Nike ZoomX Vaporfly Next% 2 Women's Running Shoes"
+    },
+    {
+        "id": "6",
+        "name": "Gel-Nimbus 22",
+        "category": "Women's Running",
+        "imageurl": [
+            "",
+            ""
+        ],
+        "oldprice": "1799.00",
+        "sizes": [
+            {
+                "size": "5.0",
+                "isSelected": "false"
+            },
+            {
+                "size": "6.0",
+                "isSelected": "false"
+            },
+            {
+                "size": "7.0",
+                "isSelected": "false"
+            },
+            {
+                "size": "8.0",
+                "isSelected": "false"
+            }
+        ],
+        "price": "89.00",
+        "description": "ASICS Gel-Nimbus 22 Women's Running Shoes offer plush comfort and durable support for long-distance runs. Features advanced GEL cushioning technology.",
+        "title": "ASICS Gel-Nimbus 22 Women's Running Shoes"
+    },
+    {
+        "id": "7",
+        "name": "React Infinity Run Flyknit 2",
+        "category": "Women's Running",
+        "imageurl": [
+            "",
+            ""
+        ],
+        "oldprice": "1699.00",
+        "sizes": [
+            {
+                "size": "5.5",
+                "isSelected": "false"
+            },
+            {
+                "size": "6.5",
+                "isSelected": "false"
+            },
+            {
+                "size": "7.5",
+                "isSelected": "false"
+            },
+            {
+                "size": "8.5",
+                "isSelected": "false"
+            }
+        ],
+        "price": "99.00",
+        "description": "Nike React Infinity Run Flyknit 2 is designed to reduce injury and keep you running. Features Flyknit technology for a snug fit and React foam for a smooth ride.",
+        "title": "Nike React Infinity Run Flyknit 2 Women's Running Shoes"
+    },
+    {
+        "id": "8",
+        "name": "Stan Smith",
+        "category": "Women's Casual",
+        "imageurl": [
+            "",
+            ""
+        ],
+        "oldprice": "1299.00",
+        "sizes": [
+            {
+                "size": "5.0",
+                "isSelected": "false"
+            },
+            {
+                "size": "6.0",
+                "isSelected": "false"
+            },
+            {
+                "size": "7.0",
+                "isSelected": "false"
+            },
+            {
+                "size": "8.0",
+                "isSelected": "false"
+            },
+            {
+                "size": "9.0",
+                "isSelected": "false"
+            }
+        ],
+        "price": "79.00",
+        "description": "Adidas Stan Smith Women's Sneakers are a classic, known for their clean design and versatility. Suitable for both casual and semi-formal wear.",
+        "title": "Adidas Stan Smith Women's Sneakers"
+    },
+    {
+        "id": "9",
+        "name": "Pegasus Trail 2",
+        "category": "Women's Trail Running",
+        "imageurl": [
+            "",
+            ""
+        ],
+        "oldprice": "1599.00",
+        "sizes": [
+            {
+                "size": "5.5",
+                "isSelected": "false"
+            },
+            {
+                "size": "6.5",
+                "isSelected": "false"
+            },
+            {
+                "size": "7.5",
+                "isSelected": "false"
+            },
+            {
+                "size": "8.5",
+                "isSelected": "false"
+            }
+        ],
+        "price": "109.00",
+        "description": "Nike Pegasus Trail 2 Women's Running Shoes are built for rugged terrain. Features a durable outsole with multidirectional traction, ensuring grip on any surface.",
+        "title": "Nike Pegasus Trail 2 Women's Running Shoes"
+    }
+]

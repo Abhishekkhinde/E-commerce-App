@@ -4,8 +4,7 @@
         "name": "UltraBoost Shoes",
         "category": "Men's Running",
         "imageurl": [
-            "",
-            ""
+            "assets/shoes/2.png"
         ],
         "oldprice": "1899.00",
         "sizes": [
@@ -39,8 +38,7 @@
         "name": "Air Max Sneakers",
         "category": "Men's Casual",
         "imageurl": [
-            "",
-            ""
+            "assets/shoes/6.png"
         ],
         "oldprice": "1599.00",
         "sizes": [
@@ -70,8 +68,7 @@
         "name": "Gel-Kayano 27",
         "category": "Men's Running",
         "imageurl": [
-            "",
-            ""
+            "assets/shoes/3.png"
         ],
         "oldprice": "1799.00",
         "sizes": [
@@ -101,8 +98,7 @@
         "name": "Chuck Taylor All Star",
         "category": "Unisex Casual",
         "imageurl": [
-            "",
-            ""
+            "assets/shoes/4.png"
         ],
         "oldprice": "699.00",
         "sizes": [
@@ -132,8 +128,7 @@
         "name": "PureBoost DPR",
         "category": "Men's Running",
         "imageurl": [
-            "",
-            ""
+            "assets/shoes/5.jpg"
         ],
         "oldprice": "1499.00",
         "sizes": [
@@ -163,8 +158,7 @@
         "name": "ZoomX Vaporfly",
         "category": "Men's Running",
         "imageurl": [
-            "",
-            ""
+            "assets/shoes/6.png"
         ],
         "oldprice": "2499.00",
         "sizes": [
@@ -194,8 +188,7 @@
         "name": "Gel-Nimbus 22",
         "category": "Women's Running",
         "imageurl": [
-            "",
-            ""
+            "assets/shoes/7.png"
         ],
         "oldprice": "1799.00",
         "sizes": [
@@ -225,8 +218,7 @@
         "name": "React Infinity Run",
         "category": "Women's Running",
         "imageurl": [
-            "",
-            ""
+            "assets/shoes/8.png"
         ],
         "oldprice": "1699.00",
         "sizes": [
@@ -256,8 +248,7 @@
         "name": "Stan Smith",
         "category": "Unisex Casual",
         "imageurl": [
-            "",
-            ""
+            "assets/shoes/9.jpg"
         ],
         "oldprice": "1299.00",
         "sizes": [
@@ -291,8 +282,7 @@
         "name": "Pegasus Trail 2",
         "category": "Men's Trail Running",
         "imageurl": [
-            "",
-            ""
+            "assets/shoes/2.png"
         ],
         "oldprice": "1599.00",
         "sizes": [

@@ -1,3 +1,5 @@
+import 'package:e_commerce_app/helper/sneker_api.dart';
+import 'package:e_commerce_app/model/sneker_model.dart';
 import 'package:e_commerce_app/view/widget/product_card.dart';
 import 'package:e_commerce_app/view/widget/textstyle.dart';
 import 'package:flutter/material.dart';
@@ -11,6 +13,31 @@ class HomeScreen extends StatefulWidget {
 class _HomeScreenState extends State<HomeScreen> with TickerProviderStateMixin {
   late final TabController _tabController =
       TabController(length: 3, vsync: this);
+
+  late Future<List<SnekerModel>> _male;
+  late Future<List<SnekerModel>> _female;
+  late Future<List<SnekerModel>> _kids;
+
+  void getMale() {
+    _male = SnekerApi().getmaleSneker();
+  }
+
+  void getfemale() {
+    _female = SnekerApi().getFemaleSneker();
+  }
+
+  void getkids() {
+    _kids = SnekerApi().getkidsSneker();
+  }
+
+  @override
+  void initState() {
+    getMale();
+    getfemale();
+    getkids();
+    super.initState();
+  }
+
   @override
   Widget build(BuildContext context) {
     final heights = MediaQuery.of(context).size.height;
@@ -86,21 +113,34 @@ class _HomeScreenState extends State<HomeScreen> with TickerProviderStateMixin {
                     Column(
                       children: [
                         SizedBox(
-                          height: heights * 0.405,
-                          child: ListView.builder(
-                            scrollDirection: Axis.horizontal,
-                            itemCount: 6,
-                            itemBuilder: (context, index) {
-                              return const ProductCard(
-                                name: "Ultraboost Shoes",
-                                category: "category",
-                                id: "1",
-                                image: "assets/airjorden.png",
-                                price: "108.00",
-                              );
-                            },
-                          ),
-                        ),
+                            height: heights * 0.405,
+                            child: FutureBuilder<List<SnekerModel>>(
+                              future: _male,
+                              builder: (context, snapshot) {
+                                if (snapshot.connectionState ==
+                                    ConnectionState.waiting) {
+                                  return const CircularProgressIndicator();
+                                } else if (snapshot.hasError) {
+                                  return Text("Error ${snapshot.error}");
+                                } else {
+                                  final male = snapshot.data;
+                                  return ListView.builder(
+                                    scrollDirection: Axis.horizontal,
+                                    itemCount: male!.length,
+                                    itemBuilder: (context, index) {
+                                      final shoes = snapshot.data![index];
+                                      return ProductCard(
+                                        name: shoes.name,
+                                        category: shoes.category,
+                                        id: shoes.id,
+                                        image: shoes.imageurl![0],
+                                        price: shoes.price,
+                                      );
+                                    },
+                                  );
+                                }
+                              },
+                            )),
                         Column(
                           children: [
                             Padding(
