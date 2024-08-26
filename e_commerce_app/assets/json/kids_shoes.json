@@ -4,8 +4,7 @@
         "name": "Air Max Tiny 90",
         "category": "Kids' Casual",
         "imageurl": [
-            "",
-            ""
+            "assets/shoes/kids/27.png"
         ],
         "oldprice": "699.00",
         "sizes": [
@@ -39,8 +38,7 @@
         "name": "Adifast",
         "category": "Kids' Running",
         "imageurl": [
-            "",
-            ""
+            "assets/shoes/kids/26.png"
         ],
         "oldprice": "599.00",
         "sizes": [
@@ -71,11 +69,10 @@
     },
     {
         "id": "2",
-        "name": "Chuck Taylor All Star Easy Slip",
+        "name": "Chuck Taylor All",
         "category": "Kids' Casual",
         "imageurl": [
-            "",
-            ""
+            "assets/shoes/kids/23.png"
         ],
         "oldprice": "499.00",
         "sizes": [
@@ -105,8 +102,7 @@
         "name": "PureMotion",
         "category": "Kids' Running",
         "imageurl": [
-            "",
-            ""
+            "assets/shoes/kids/24.png"
         ],
         "oldprice": "549.00",
         "sizes": [
@@ -136,8 +132,7 @@
         "name": "Revolution 5",
         "category": "Kids' Running",
         "imageurl": [
-            "",
-            ""
+            "assets/shoes/kids/25.png"
         ],
         "oldprice": "699.00",
         "sizes": [
@@ -160,15 +155,14 @@
         ],
         "price": "49.00",
         "description": "Nike Revolution 5 Kids' Running Shoes feature lightweight mesh for breathability and soft foam cushioning to keep feet comfortable during play.",
-        "title": "Nike Revolution 5 Kids' Running Shoes"
+        "title": "Nike Revolution"
     },
     {
         "id": "5",
         "name": "Gel-Lyte III GS",
         "category": "Kids' Casual",
         "imageurl": [
-            "",
-            ""
+            "assets/shoes/kids/25.png"
         ],
         "oldprice": "599.00",
         "sizes": [
@@ -198,8 +192,7 @@
         "name": "Flex Contact 4",
         "category": "Kids' Running",
         "imageurl": [
-            "",
-            ""
+            "assets/shoes/kids/22.png"
         ],
         "oldprice": "649.00",
         "sizes": [
@@ -229,8 +222,7 @@
         "name": "X-90 CR",
         "category": "Kids' Casual",
         "imageurl": [
-            "",
-            ""
+            "assets/shoes/kids/21.png"
         ],
         "oldprice": "599.00",
         "sizes": [
@@ -254,67 +246,5 @@
         "price": "45.00",
         "description": "New Balance X-90 CR Kids' Sneakers combine retro style with modern comfort. Features a lightweight EVA foam midsole and durable rubber outsole.",
         "title": "New Balance X-90 CR Kids' Sneakers"
-    },
-    {
-        "id": "8",
-        "name": "Tanjun",
-        "category": "Kids' Casual",
-        "imageurl": [
-            "",
-            ""
-        ],
-        "oldprice": "549.00",
-        "sizes": [
-            {
-                "size": "10C",
-                "isSelected": "false"
-            },
-            {
-                "size": "11C",
-                "isSelected": "false"
-            },
-            {
-                "size": "12C",
-                "isSelected": "false"
-            },
-            {
-                "size": "13C",
-                "isSelected": "false"
-            }
-        ],
-        "price": "39.00",
-        "description": "Nike Tanjun Kids' Sneakers feature a simple, lightweight design with breathable mesh upper and comfortable foam cushioning. Ideal for everyday wear.",
-        "title": "Nike Tanjun Kids' Sneakers"
-    },
-    {
-        "id": "9",
-        "name": "Superstar Foundation",
-        "category": "Kids' Casual",
-        "imageurl": [
-            "",
-            ""
-        ],
-        "oldprice": "599.00",
-        "sizes": [
-            {
-                "size": "10K",
-                "isSelected": "false"
-            },
-            {
-                "size": "11K",
-                "isSelected": "false"
-            },
-            {
-                "size": "12K",
-                "isSelected": "false"
-            },
-            {
-                "size": "13K",
-                "isSelected": "false"
-            }
-        ],
-        "price": "49.00",
-        "description": "Adidas Superstar Foundation Kids' Sneakers are a downsized version of the classic Superstar. Features a leather upper, rubber shell toe, and durable outsole.",
-        "title": "Adidas Superstar Foundation Kids' Sneakers"
     }
 ]

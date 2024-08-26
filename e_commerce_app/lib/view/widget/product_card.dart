@@ -37,6 +37,7 @@ class _ProductCardState extends State<ProductCard> {
             )
           ]),
           child: Column(
+            mainAxisAlignment: MainAxisAlignment.spaceBetween,
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               Stack(
@@ -77,6 +78,7 @@ class _ProductCardState extends State<ProductCard> {
                   ],
                 ),
               ),
+              // Spacer(),
               Padding(
                 padding: const EdgeInsets.only(left: 8, right: 8),
                 child: Row(

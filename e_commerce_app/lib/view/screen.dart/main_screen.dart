@@ -1,6 +1,7 @@
 import 'package:e_commerce_app/controller/mainscreen_provider.dart';
 import 'package:e_commerce_app/view/screen.dart/cart_page.dart';
 import 'package:e_commerce_app/view/screen.dart/home_page.dart';
+import 'package:e_commerce_app/view/screen.dart/product_by_card.dart';
 import 'package:e_commerce_app/view/screen.dart/profile_page.dart';
 import 'package:e_commerce_app/view/screen.dart/search_page.dart';
 import 'package:e_commerce_app/view/widget/bottom_nav_bar.dart';
@@ -13,7 +14,7 @@ class MainScreen extends StatefulWidget {
   List<Widget> pageList = const [
     HomeScreen(),
     SearchScreen(),
-    HomeScreen(),
+    ProductByCard(),
     CartScreen(),
     ProfileScreen()
   ];

@@ -12,7 +12,7 @@ class SnekerApi {
 
   Future<List<SnekerModel>> getFemaleSneker() async {
     final data =
-        await the_bundle.rootBundle.loadString("assets/json/men_shoes.json");
+        await the_bundle.rootBundle.loadString("assets/json/female_shoes.json");
 
     final femaleList = snekerfromJson(data);
     return femaleList;

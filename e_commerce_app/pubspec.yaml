@@ -9,6 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_staggered_grid_view: ^0.7.0
   google_fonts: ^6.2.1
   provider: ^6.1.2
 
@@ -26,3 +27,24 @@ flutter:
    - assets/json/kids_shoes.json
    - assets/json/female_shoes.json
    - assets/shoes/2.png
+   - assets/shoes/3.png
+   - assets/shoes/4.png
+   - assets/shoes/5.jpg
+   - assets/shoes/6.png
+   - assets/shoes/7.png
+   - assets/shoes/8.png
+   - assets/shoes/9.jpg
+   - assets/shoes/1.jpg
+   - assets/shoes/women/11.jpg
+   - assets/shoes/women/12.jpg
+   - assets/shoes/women/13.png
+   - assets/shoes/women/14.jpg
+   - assets/shoes/women/15.png
+   - assets/shoes/women/16.png
+   - assets/shoes/kids/21.png
+   - assets/shoes/kids/22.png
+   - assets/shoes/kids/23.png
+   - assets/shoes/kids/24.png
+   - assets/shoes/kids/25.png
+   - assets/shoes/kids/26.png
+   - assets/shoes/kids/27.png
